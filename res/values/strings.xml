@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fast Fingers</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="asteroids">Asteroids</string>
+    <string name="credits">CREDITOS</string>
+    <string name="play">Play</string>
+    <string name="howto">HowTo</string>
+    <string name="instrucciones">INSTRUCCIONES/n
+        Fast Fingers es un juego, en el cual el usuario debe escribir
+        las palabras que pasan en la pantalla antes de que cruzen de lado
+        a lado, para escribir las palabras se usará el teclado virtual y 
+        para usar a éste se debe apretar la caja de texto.
+        Luego se deberá escribir la palabra que se muestre en pantalla a
+        travéz de éste. A medida que transcurra el juego aumentará la velocidad
+        de las palabras al bajar./n          
+        El juego termina cuando la palabra toque el “piso” o “lado” contrario al cual salió.</string>
+	<string name="creditos">Basterra Agustin/n
+	   Se le agradece a Franco Agresta, Mauro Paris y Agustin Venturi.
+	   </string>
+</resources>
